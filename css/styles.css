@@ -6,9 +6,13 @@
 /* Styles for the body */
 .myname {
 	color: #0A1B49;
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"; 
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	text-align: center;
  
 	}
+.centalign {
+	text-align: center;
+}
 	.funkytext {
 		color:#110C50;
 		font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
