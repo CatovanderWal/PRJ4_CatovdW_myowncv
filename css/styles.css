@@ -15,13 +15,13 @@
 body {
 	font-family: Lato, "Fredoka", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #202030;
-	background-color: #f8f8fc;
+	background-color: #0D6EFD;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #64B070;
+    background-color: #6FA7F9;
     text-align: left;
 }
 
