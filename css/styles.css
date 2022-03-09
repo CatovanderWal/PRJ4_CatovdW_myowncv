@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 /* Styles for the body */
-
+.myname {color: #0A1B49}
 body {
 	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #202030;
@@ -23,7 +23,7 @@ body {
 }
 
 .resume-aside {
-    background-color: #5F966B;
+    background-color: #FF80E9;
 }
 
 /* Styles for lists in the document */
